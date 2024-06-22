@@ -29,4 +29,4 @@ else
 fi
 
 echo "we are testing a M1"
-
+echo "We are aceesing Git Through GitBash"
